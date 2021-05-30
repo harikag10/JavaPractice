@@ -3,4 +3,4 @@
 This repo contains Java related work 
 
 ### Content
-- oops -> Code demonstrating OOPs concepts
+- Java->src->oops -> Code demonstrating OOPs concepts
